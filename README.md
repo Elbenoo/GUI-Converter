@@ -46,8 +46,6 @@ La interfaz está dividida en los siguientes componentes:
 - **Función:** Introducir el valor numérico que deseas convertir.
 - **Validación:**
   - Solo permite números positivos o negativos con coma o punto decimal, según la configuración regional del sistema operativo.
-- **Atajo de teclado:** Puedes presionar `Tab` para saltar entre este campo y los combo boxes.
-
 ---
 
 ### 🌐 Combo Box: **Sistema de unidades origen**
