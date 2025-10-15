@@ -86,7 +86,14 @@ Se implementa una función central que:
 - Es fácilmente extensible si deseas añadir más categorías o sistemas.
 
 ---
+## 🎨 Estilo
 
+Si tienes instalada la librería `qt-material`, se aplicará automáticamente el tema **Dark Teal** para mejorar la estética.
+
+```python
+from qt_material import apply_stylesheet
+apply_stylesheet(app, theme='dark_teal.xml')
+```
 ## 📦 Requisitos
 
 - Python 3.7 o superior
